@@ -1,26 +1,16 @@
-﻿//Kyler Campbell
+//Kyler Campbell
 //June 2, 2018
 //Quadratic Extended
 //Create program that finds anser to qudrqatic equation and plots zeros on graph
 
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
-using System.Drawing;
 
-namespace U4_Josh_Quadratic___Extended
+namespace u5Quadratic
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
